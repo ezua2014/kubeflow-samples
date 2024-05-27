@@ -11,4 +11,4 @@ spec:
     model:
       modelFormat:
         name: sklearn
-      storageUri: "s3://kserve-test/sklearn-test"
+      storageUri: "s3://kserve-student99/sklearn-test"
