@@ -1,7 +1,7 @@
 apiVersion: "serving.kserve.io/v1beta1"
 kind: "InferenceService"
 metadata:
-  name: "sklearn-student99"
+  name: "sklearn-iris-student99"
   annotations:
     sidecar.istio.io/inject: "false"
 spec:
